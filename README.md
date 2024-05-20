@@ -1,8 +1,6 @@
-# Vuecommerce
+# Vue-commerce
 
 This is a simple e-commerce website built with Vue.js and Firebase.
-
-> It is a work in progress. I will add more features and improve the code quality as i can.
 
 ## Project setup
 ```bash
@@ -43,16 +41,3 @@ npm run serve
 - [ ] Order management
 - [ ] Payment System (Shopier - Iyzico)
 - [ ] SEO
-
-## Technologies
-
-- [Vue.js](https://vuejs.org/ "Vue.js")
-- [Pinia (Vue.js state management)](https://pinia.vuejs.org/ "Pinia")
-- [Firebase](https://firebase.google.com/ "Firebase")
-- [Tailwind CSS](https://tailwindcss.com/ "Tailwind CSS")
-- [DaisyUI (Tailwind CSS components)](https://daisyui.com/ "DaisyUI")
-- [maska (Input masking)](https://github.com/beholdr/maska, "maska")
-- [intus (Form validation)](https://github.com/druc/intus, "intus")
-- [VueUse (Vue.js utilities)](https://vueuse.org/ "VueUse")
-- [Vue Router](https://router.vuejs.org/ "Vue Router")
-
